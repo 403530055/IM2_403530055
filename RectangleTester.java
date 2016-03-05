@@ -1,6 +1,6 @@
 /*
  *JAVA HW1:RectangleTester
- *Author: ½²¨J§Ê
+ *Author: Tsai Yuan-Ting
  *ID: 403530055
  *DATE: 2016/3/5
  */
