@@ -73,11 +73,11 @@ public class RectangleTester {
 		Rectangle r1 = new Rectangle(x1,y1,width1,height1);
 		Rectangle r2 = new Rectangle(x2,y2,width2,height2);
 		System.out.println(r1);
-		System.out.println("Area = " + r1.getWidth()*r1.getWidth());
+		System.out.println("Area = " + r1.getWidth()*r1.getHeight());
 		System.out.println("Perimeter = " + 2*(r1.getWidth()+r1.getHeight()));
 		System.out.println("");
 		System.out.println(r2);
-		System.out.println("Area = " + r2.getWidth()*r2.getWidth());
+		System.out.println("Area = " + r2.getWidth()*r2.getHeight());
 		System.out.println("Perimeter = " + 2*(r2.getWidth()+r2.getHeight()));
 		System.out.println("");
 		System.out.println("End of Output!");
