@@ -1,5 +1,4 @@
 package bank;
-import java.util.*;
 import bank.BankAccount;
 
 public class SavingsAccount extends BankAccount{
@@ -21,5 +20,7 @@ public class SavingsAccount extends BankAccount{
 		
 	}
 	
-	public void addInterest(){}
+	public void addInterest(){
+		
+	}
 }

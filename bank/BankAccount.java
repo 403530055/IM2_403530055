@@ -3,9 +3,10 @@ import java.util.*;
 
 public class BankAccount {
 	
+	
 	String state;
 	int accountNumber;
-	private double balance;
+	double balance;
 	private ArrayList<Double> transaction = null; 
 	
 	BankAccount(){
